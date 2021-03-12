@@ -4,7 +4,7 @@
 
 Achar logs em aplicações em ambientes de produção nem sempre é uma tarefa fácil, com o Spring Cloud Sleuth temos um id único para acompanhar o "trace" de cada requisição e essa tarefa se torna bem mais simples!
 
-Neste vídeo vamos utilizar o Spring Cloud sleuth para rastreamento da nossa aplicação  desenvolvida em Java usando o framework Spring, o banco H2 em tempo de desenvolvimento e em ambiente "de produção"  vamos utilizar o Postgresql, os logs poderão ser acompanhados dentro do Heroku que foi a ferramenta escolhida para hospedar nossa aplicação. 
+Neste vídeo vamos utilizar o Spring Cloud sleuth para rastreamento dos logs da nossa aplicação  desenvolvida em Java usando o framework Spring, o banco H2 em tempo de desenvolvimento e em ambiente "de produção"  vamos utilizar o Postgresql, os logs poderão ser acompanhados dentro do Heroku que foi a ferramenta escolhida para hospedar nossa aplicação. 
 
 ## Expert
 
