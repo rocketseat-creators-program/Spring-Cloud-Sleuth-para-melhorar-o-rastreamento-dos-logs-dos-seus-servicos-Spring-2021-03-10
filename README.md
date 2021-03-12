@@ -1,6 +1,6 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Utilizando o Spring Cloud Sleuth para melhorar o rastreamento dos logs nos seus servicos Spring
+# Utilizando o Spring Cloud Sleuth para melhorar o rastreamento dos logs nos seus serviços Spring
 
 Achar logs em aplicações em ambientes de produção nem sempre é uma tarefa fácil, com o Spring Cloud Sleuth temos um id único para acompanhar o "trace" de cada requisição e essa tarefa se torna bem mais simples!
 
